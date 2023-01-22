@@ -1,4 +1,7 @@
+import pathlib
 from distutils.core import setup
+HERE = pathlib.Path(__file__).parent
+README = (HERE / "README.md").read_text()
 setup(
   name = 'Topis-Harshit-102003644',        
   packages = ['Topsis-Harshit-102003644'],  
