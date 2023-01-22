@@ -1,13 +1,15 @@
-import pathlib
-from distutils.core import setup
-HERE = pathlib.Path(__file__).parent
-README = (HERE / "README.md").read_text()
+from setuptools import setup, find_packages
+from pathlib import Path
+this_directory = Path(__file__).parent
+long_description = (this_directory / "README.md").read_text()
 setup(
   name = 'Topis-Harshit-102003644',        
   packages = ['Topsis-Harshit-102003644'],  
   version = '1.0',      
   license='MIT',        
-  description = 'Library for Multiple Criteria Decision Making using Topsis',   
+  description = 'Library for Multiple Criteria Decision Making using Topsis', 
+  long_description=long_description,
+  long_description_content_type='text/markdown',  
   author = 'Harshit Gogia',                  
   author_email = 'hgogia_be20@thapar.edu',   
   url = 'https://github.com/hrshtgo/Topsis-102003644-Harshit',   
