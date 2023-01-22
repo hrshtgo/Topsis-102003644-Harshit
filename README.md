@@ -5,7 +5,7 @@ Topsis-Harshit-102003644 requires pip, numpy and pandas to be pre-installed.
 # Installation:
 You can install the package with the following command: 
 ```
-pip install Topsis-Harshit-102003644==1.1.1.1
+pip install Topsis-Harshit-102003644==2.0
 ```
 # Working:
 ```
