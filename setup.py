@@ -13,7 +13,7 @@ setup(
   author = 'Harshit Gogia',                  
   author_email = 'hgogia_be20@thapar.edu',   
   url = 'https://github.com/hrshtgo/Topsis-102003644-Harshit',   
-  download_url = 'https://github.com/hrshtgo/Topsis-Harshit-102003644/archive/refs/tags/1.1.tar.gz',    
+  download_url = 'https://github.com/hrshtgo/Topsis-Harshit-102003644/archive/refs/tags/1.1.1.tar.gz',    
   keywords = ['Topsis', 'MCDM'],  
   install_requires=[            
           'numpy',
