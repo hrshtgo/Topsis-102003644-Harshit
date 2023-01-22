@@ -5,7 +5,7 @@ long_description = (this_directory / "README.md").read_text()
 setup(
   name = 'Topis-Harshit-102003644',        
   packages = ['Topsis-Harshit-102003644'],  
-  version = '1.1.1',      
+  version = '1.1.1.1',      
   license='MIT',        
   description = 'Library for Multiple Criteria Decision Making using Topsis', 
   long_description=long_description,
