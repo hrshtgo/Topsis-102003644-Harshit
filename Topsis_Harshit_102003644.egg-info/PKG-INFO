@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: Topsis-Harshit-102003644
+Version: 2.0
+Summary: Library for Multiple Criteria Decision Making using Topsis
+Home-page: https://github.com/hrshtgo/Topsis-102003644-Harshit
+Download-URL: https://github.com/hrshtgo/Topsis-Harshit-102003644/archive/refs/tags/2.0.tar.gz
+Author: Harshit Gogia
+Author-email: hgogia_be20@thapar.edu
+License: MIT
+Keywords: Topsis,MCDM
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# Topsis-Harshit-102003644
+Python Package for Calculation of Multiple Criteria Decision Making using Topsis
+# Requirements:
+Topsis-Harshit-102003644 requires pip, numpy and pandas to be pre-installed.
+# Installation:
+You can install the package with the following command: 
+```
+pip install Topsis-Harshit-102003644==2.0
+```
+# Working:
+```
+102003644 <InputDataFile> <Weights> <Impacts> <ResultFileName>
+```
